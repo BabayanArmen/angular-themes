@@ -1,0 +1,22 @@
+.dark-mode {
+    background-color: rgb(48, 48, 48);
+    color: white;
+
+    --main-color: whitesmoke;
+
+    .btn{
+        background-color: yello;
+        color: green;
+    }
+}
+.light-mode {
+    background-color: whitesmoke;
+    color: grey;
+
+    --main-color: grey;
+
+    .btn{
+        background-color: blue;
+        color: white;
+    }
+}
